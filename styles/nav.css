@@ -1,0 +1,9 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.25);
+}
+.navbar-end{
+    display: none !important;
+}
+.navbar-item > i{
+    width: fit-content !important;
+}
